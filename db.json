@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Products": [
+    {
+      "id": "1",
+      "Device": "Laptop",
+      "Price": "25000"
+    },
+    {
+      "id": "2",
+      "Device": "HP",
+      "Price": "45000"
+    },
+    {
+      "id": "3",
+      "Device": "Acer",
+      "Price": "50000"
+    },
+    {
+      "id": "4",
+      "Device": "Dell",
+      "Price": "60000"
+    }
+  ]
+}
